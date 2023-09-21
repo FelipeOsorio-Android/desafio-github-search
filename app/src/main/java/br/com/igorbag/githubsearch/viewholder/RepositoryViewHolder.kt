@@ -1,6 +1,5 @@
 package br.com.igorbag.githubsearch.viewholder
 
-import android.content.Intent
 import androidx.recyclerview.widget.RecyclerView
 import br.com.igorbag.githubsearch.databinding.RepositoryItemBinding
 import br.com.igorbag.githubsearch.domain.Repository
